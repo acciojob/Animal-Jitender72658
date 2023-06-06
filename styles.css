@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.heading{
+	text-align:center;
+	color:white;
+	background: black;
+}
+.photos{
+	position:grid;
+	
+	
+}
